@@ -1,1 +1,2 @@
-print("Hello"*5)
+for n in range(5):
+  print("Hello")
