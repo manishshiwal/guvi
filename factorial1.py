@@ -1,5 +1,5 @@
-a=int(raw_input("enter the number"))
-s=1
-for n in range(1,a+1):
-	s*=n
-print s
+az=int(raw_input("enter the number"))
+sa=1
+for n in range(1,az+1):
+	sa*=n
+print sa
